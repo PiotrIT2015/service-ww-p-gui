@@ -1,4 +1,4 @@
-## WW-P(system for entertainment in free time, version 3.0)
+## OS-GUI-WW-P
 
 ## Table of contents
 * [Running info](#running-info)
