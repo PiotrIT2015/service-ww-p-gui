@@ -1,4 +1,4 @@
-## OS-GUI-WW-P-2
+## service-ww-p-gui
 
 ## Table of contents
 * [Running info](#running-info)
@@ -15,7 +15,7 @@ Frontend: Otwórz przeglądarkę i przejdź do:
 http://127.0.0.1:5000 
 ```
 
-##Description
+## Description
 Frontend for java shopping service created for WW-P
 	
 ## Technologies
